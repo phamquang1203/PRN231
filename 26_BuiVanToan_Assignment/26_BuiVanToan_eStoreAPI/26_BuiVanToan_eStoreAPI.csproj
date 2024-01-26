@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_26_BuiVanToan_eStoreAPI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.15" />
+
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\26_BuiVanToan_BusinessObject\26_BuiVanToan_BusinessObject.csproj" />
+    <ProjectReference Include="..\26_BuiVanToan_DataAccess\26_BuiVanToan_DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
