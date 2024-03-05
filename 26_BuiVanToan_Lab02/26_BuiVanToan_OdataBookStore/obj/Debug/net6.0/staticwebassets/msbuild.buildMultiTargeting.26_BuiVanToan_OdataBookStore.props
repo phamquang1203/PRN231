@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\26_BuiVanToan_OdataBookStore.props" />
+</Project>

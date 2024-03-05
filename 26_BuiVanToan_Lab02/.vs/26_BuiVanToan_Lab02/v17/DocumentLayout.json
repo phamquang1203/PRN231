@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|solutionrelative:26_buivantoan_odatabookstore\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstore\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|solutionrelative:26_buivantoan_odatabookstore\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|solutionrelative:26_buivantoan_odatabookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7541E270-F4D7-4053-A6C8-F26C0C147C57}|26_BuiVanToan_OdataBookStore\\26_BuiVanToan_OdataBookStore.csproj|solutionrelative:26_buivantoan_odatabookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab02\\26_buivantoan_odatabookstorewebclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AAF0770-06EB-410D-A63D-C4F0951347D2}|26_BuiVanToan_OdataBookStoreWebClient\\26_BuiVanToan_OdataBookStoreWebClient.csproj|solutionrelative:26_buivantoan_odatabookstorewebclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PressesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Controllers\\PressesController.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStore\\Controllers\\PressesController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Controllers\\PressesController.cs",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStore\\Controllers\\PressesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-28T18:49:55.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\appsettings.json",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-28T17:42:58.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-27T16:05:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-27T16:19:51.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStore\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Models\\Book.cs",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStore\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T16:15:01.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-27T15:47:07.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-27T15:39:50.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Program.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Program.cs",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStore\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwEEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T15:08:33.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Controllers\\BookController.cs",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T12:41:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStore\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStore\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStore\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T11:06:56.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab02\\26_BuiVanToan_OdataBookStoreWebClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "26_BuiVanToan_OdataBookStoreWebClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-26T12:38:59.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

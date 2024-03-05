@@ -1,0 +1,16 @@
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\bin\Debug\net6.0\appsettings.json
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\bin\Debug\net6.0\26_BuiVanToan_BusinessObjects.deps.json
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\bin\Debug\net6.0\26_BuiVanToan_BusinessObjects.runtimeconfig.json
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\bin\Debug\net6.0\26_BuiVanToan_BusinessObjects.dll
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\bin\Debug\net6.0\26_BuiVanToan_BusinessObjects.pdb
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.AssemblyInfo.cs
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.sourcelink.json
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.dll
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\refint\26_BuiVanToan_BusinessObjects.dll
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.pdb
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\26_BuiVanToan_BusinessObjects.genruntimeconfig.cache
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Lab03\26_BuiVanToan_BusinessObjects\obj\Debug\net6.0\ref\26_BuiVanToan_BusinessObjects.dll
