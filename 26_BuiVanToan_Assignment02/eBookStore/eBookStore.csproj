@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\26_BuiVanToan_BusinessObject\26_BuiVanToan_BusinessObject.csproj" />
+    <ProjectReference Include="..\26_BuiVanToan_DataAccess\26_BuiVanToan_DataAccess.csproj" />
+    <ProjectReference Include="..\26_BuiVanToan_Repository\26_BuiVanToan_Repository.csproj" />
+    <ProjectReference Include="..\eBookStoreWebAPI\eBookStoreWebAPI.csproj" />
+  </ItemGroup>
+
+</Project>

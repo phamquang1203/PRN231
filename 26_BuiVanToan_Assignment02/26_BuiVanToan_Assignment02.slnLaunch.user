@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "eBookStoreWebAPI\\eBookStoreWebAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
