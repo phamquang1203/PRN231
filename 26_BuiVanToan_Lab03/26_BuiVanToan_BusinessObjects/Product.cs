@@ -14,10 +14,8 @@ namespace _26_BuiVanToan_BusinessObjects
         public int ProductId { get; set; }
                 [Required]
                 [StringLength(40)]
-
         public string ProductName { get; set; }
                 [Required]
-
         public int CategoryId { get; set; }
                 [Required]
 

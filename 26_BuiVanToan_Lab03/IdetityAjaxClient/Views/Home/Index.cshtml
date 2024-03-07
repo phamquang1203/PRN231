@@ -6,6 +6,11 @@
 
 <div class="container-fluid">
     <h2>Product List</h2>
+    <p>
+        <a href="/product/Create" class="btn btn-primary">
+            Create
+        </a>
+    </p>
     <table class="table table-sm table-striped table-bordered m-2">
         <thead>
             <tr>
@@ -22,47 +27,51 @@
 </div>
 
 <script type="text/javascript">
-     $(document).ready(function() {
-         ShowAllProducts();
-         function ShowAllProducts() {
-             $("table tbody").html("");
-             $.ajax({
-                url: "https://localhost:7218/api/Products",
-                 type: "get",
-                 contentType: "application/json; charset=utf-8",
-                 dataType: "json",
-                 success: function (result, status, xhr) {
-                     $.each(result, function (index, value) {
-
-                         $("tbody").append($("<tr>"));
-                         appendElement = $("tbody tr").last();
-                         appendElement.append($("<td>").html(value["productId"])); 
-                         appendElement.append($("<td>").html(value["productName"]));
-                         appendElement.append($("<td>").html(value["unitsInStock"]));
-                         appendElement.append($("<td>").html(value["unitPrice"]));
-                         appendElement.append($("<td>").html("<a href=\"?id=" +
-                             value["productId"] + "\"><img src=\"icon/edit.png\" /></a>"));
-                         appendElement.append($("<td>").html("<img class=\"delete\" src=\"icon/close.png\" />"));
-                     });
-                 },
-                  error: function (xhr, status, error) {
-                     console.log(xhr)
-                 }
-             });
-         }
-        $("table").on("click", "img.delete", function () {
-            var productId = $(this).parents("tr").find("td:nth-child(1)").text();
+    $(document).ready(function () {
+        ShowAllProducts();
+        function ShowAllProducts() {
+            $("table tbody").html("");
             $.ajax({
-                url: "https://localhost:7218/api/Products/" + productId,
-                type: "delete",
-                contentType: "application/json",
+                url: "https://localhost:7218/api/Products",
+                type: "get",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
                 success: function (result, status, xhr) {
-                ShowAllProducts();
+                    $.each(result, function (index, value) {
+
+                        $("tbody").append($("<tr>"));
+                        appendElement = $("tbody tr").last();
+                        appendElement.append($("<td>").html(value["productId"]));
+                        appendElement.append($("<td>").html(value["productName"]));
+                        appendElement.append($("<td>").html(value["unitsInStock"]));
+                        appendElement.append($("<td>").html(value["unitPrice"]));
+                        appendElement.append($("<td>").html("<a href=\"/Product/Update?id=" + value["productId"] + "\"><img src=\"icon/edit.png\" /></a>"));
+                        appendElement.append($("<td>").html("<img class=\"delete\" src=\"icon/close.png\" />"));
+                    });
                 },
-                 error: function (xhr, status, error) {
+                error: function (xhr, status, error) {
                     console.log(xhr)
                 }
             });
+        }
+        $("table").on("click", "img.delete", function () {
+            var productId = $(this).closest("tr").find("td:first").text();
+            $.ajax({
+                url: "https://localhost:7218/api/Products/id?id=" +productId,
+                type: "delete",
+                contentType: "application/json",
+                success: function (result, status, xhr) {
+                    ShowAllProducts(); 
+                },
+                error: function (xhr, status, error) {
+                    console.log(xhr)
+                }
+            });
+        });;
+
+        $("a.create").on("click", function () {
+            window.location.href = "/product/Create";
         });
     });
-    </script>
+
+</script>

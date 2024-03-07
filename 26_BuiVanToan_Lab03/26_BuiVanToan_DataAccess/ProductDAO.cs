@@ -37,7 +37,9 @@ namespace _26_BuiVanToan_DataAccess
             using (var context = new ApplicationDBContext())
             
                 {
-                    p = context.Products.SingleOrDefault(x => x.ProductId == prodId);
+                    p = context.Products.SingleOrDefault(x => 
+                    
+                    x.ProductId == prodId);
 
                 }
             }

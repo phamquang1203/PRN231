@@ -20,6 +20,59 @@
     ]
   },
   {
+    "ContainingType": "ProjectManagementAPI.Controllers.CategoriesController",
+    "Method": "Add",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prod",
+        "Type": "_26_BuiVanToan_BusinessObjects.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementAPI.Controllers.CategoriesController",
+    "Method": "GetById",
+    "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectManagementAPI.Controllers.CategoriesController",
+    "Method": "Update",
+    "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "prod",
+        "Type": "_26_BuiVanToan_BusinessObjects.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProjectManagementAPI.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/Products",
@@ -48,8 +101,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "p",
-        "Type": "_26_BuiVanToan_BusinessObjects.Product",
+        "Name": "productReq",
+        "Type": "_26_BuiVanToan_BusinessObject.ProductRequest",
         "IsRequired": true
       }
     ],
@@ -86,7 +139,7 @@
       },
       {
         "Name": "p",
-        "Type": "_26_BuiVanToan_BusinessObjects.Product",
+        "Type": "_26_BuiVanToan_BusinessObject.ProductRequest",
         "IsRequired": true
       }
     ],
