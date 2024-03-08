@@ -3,60 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\projectmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{858B5844-53EE-41E9-AB52-2E7E7EC948FA}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{858B5844-53EE-41E9-AB52-2E7E7EC948FA}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\projectmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\projectmanagementapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\projectmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B1D48E4-E2A4-4D24-87DE-90473ADCE530}|26_BuiVanToan_Repositories\\26_BuiVanToan_Repositories.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,16 +35,52 @@
       "RelativeMoniker": "D:0:0:{858B5844-53EE-41E9-AB52-2E7E7EC948FA}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\projectmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E77489C-29FA-4AA9-9473-D4969B3CC3B9}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858B5844-53EE-41E9-AB52-2E7E7EC948FA}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858B5844-53EE-41E9-AB52-2E7E7EC948FA}|26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj|solutionrelative:26_buivantoan_dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|solutionrelative:idetityajaxclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\26_buivantoan_businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D72239-7447-43BC-BC81-3118CFD56520}|26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj|solutionrelative:26_buivantoan_businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C68965A9-33E7-4DC6-8982-C2B1C4AA1F01}|IdetityAjaxClient\\IdetityAjaxClient.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_lab03\\idetityajaxclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,15 +134,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
-              "RelativeToolTip": "26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProjectManagementAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T03:45:43.913Z",
+              "WhenOpened": "2024-03-02T07:48:05.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "26_BuiVanToan_Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:09:35.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProjectManagementAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T07:28:00.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "26_BuiVanToan_Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T07:26:35.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "IdetityAjaxClient\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwEcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:10:55.053Z",
               "EditorCaption": ""
             },
             {
@@ -153,92 +201,63 @@
               "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "IdetityAjaxClient\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAuwDkAAABKAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAC8AAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-07T03:13:50.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T03:13:15.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "IdetityAjaxClient\\Views\\Product\\Update.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAuwDEAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T03:10:55.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdetityAjaxClient\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdetityAjaxClient\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-07T03:07:46.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "IdetityAjaxClient\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAuwD0AAAA+AAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-07T02:55:10.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T02:48:08.254Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
+              "RelativeToolTip": "26_BuiVanToan_DataAccess\\CategoryDAO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:09:57.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\Category.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\Category.cs",
+              "RelativeToolTip": "26_BuiVanToan_BusinessObjects\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:03:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "IdetityAjaxClient\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Controllers\\ProductController.cs",
               "RelativeToolTip": "IdetityAjaxClient\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDIAAAAiAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA9wDkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:55:59.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T07:55:59.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\Product.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\Product.cs",
@@ -246,84 +265,7 @@
               "RelativeToolTip": "26_BuiVanToan_BusinessObjects\\Product.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:17:25.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IdetityAjaxClient\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IdetityAjaxClient\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:55:30.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ProjectManagementAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ProjectManagementAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:28:00.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ProjectManagementAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\ProjectManagementAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ProjectManagementAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAqwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:48:05.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\ProductDAO.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
-              "RelativeToolTip": "26_BuiVanToan_DataAccess\\ProductDAO.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAqwGgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:20:22.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "26_BuiVanToan_Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T07:26:35.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "26_BuiVanToan_Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T06:09:35.33Z"
+              "WhenOpened": "2024-03-02T07:17:25.897Z"
             },
             {
               "$type": "Document",
@@ -335,24 +277,83 @@
               "RelativeToolTip": "ProjectManagementAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-02T08:18:29.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T08:18:29.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdetityAjaxClient\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdetityAjaxClient\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T03:07:46.103Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\CategoryDAO.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\CategoryDAO.cs",
-              "RelativeToolTip": "26_BuiVanToan_DataAccess\\CategoryDAO.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T06:09:57.737Z"
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "IdetityAjaxClient\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T02:48:08.254Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdetityAjaxClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:13:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
+              "RelativeToolTip": "26_BuiVanToan_BusinessObjects\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:45:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IdetityAjaxClient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\IdetityAjaxClient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IdetityAjaxClient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T07:55:30.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_DataAccess\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "26_BuiVanToan_DataAccess\\ProductDAO.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T07:20:22.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\ApplicationDBContext.cs",
@@ -364,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\appsettings.json",
               "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\appsettings.json",
@@ -373,18 +374,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-02T07:40:12.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\Category.cs",
-              "RelativeDocumentMoniker": "26_BuiVanToan_BusinessObjects\\Category.cs",
-              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lab03\\26_BuiVanToan_BusinessObjects\\Category.cs",
-              "RelativeToolTip": "26_BuiVanToan_BusinessObjects\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T02:03:12.44Z"
             },
             {
               "$type": "Document",

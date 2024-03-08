@@ -17,7 +17,7 @@ namespace ProjectManagementAPI.Controllers
     [HttpGet("{id:int}")]
     public IActionResult GetById([FromRoute] int id)
     {
-        var prod = repository.GetProductById(id);
+        var prod = repository.GetCategoryById(id);
         if (prod == null) return NotFound("Product not found.");
 
         return Ok(prod);

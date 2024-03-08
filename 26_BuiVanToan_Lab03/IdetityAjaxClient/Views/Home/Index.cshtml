@@ -45,7 +45,7 @@
                         appendElement.append($("<td>").html(value["productName"]));
                         appendElement.append($("<td>").html(value["unitsInStock"]));
                         appendElement.append($("<td>").html(value["unitPrice"]));
-                        appendElement.append($("<td>").html("<a href=\"/Product/Update?id=" + value["productId"] + "\"><img src=\"icon/edit.png\" /></a>"));
+                        appendElement.append($("<td>").html("<a href=\"/Product/Edit?id=" + value["productId"] + "\"><img src=\"icon/edit.png\" /></a>"));
                         appendElement.append($("<td>").html("<img class=\"delete\" src=\"icon/close.png\" />"));
                     });
                 },

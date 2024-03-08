@@ -14,5 +14,6 @@ namespace _26_BuiVanToan_Repositories
         public List<Category> GetCategories() => CategoryDAO.GetCategories();
         public List<Product> GetProducts() => ProductDAO.GetProducts(); 
         public Product GetProductById(int id) => ProductDAO.FindProductById(id);
+        public Category GetCategoryById(int id) => CategoryDAO.GetCategoryById(id);
     }
 }

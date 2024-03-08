@@ -15,8 +15,16 @@ namespace ProjectManagementAPI.Controllers
         [HttpGet]
   
         public ActionResult<IEnumerable<Product>> GetProducts() => repository.GetProducts();
-                // POST: ProductsController/Products
-               [HttpPost]
+        [HttpGet("{id:int}")]
+        public IActionResult GetById([FromRoute] int id)
+        {
+            var prod = repository.GetProductById(id);
+            if (prod == null) return NotFound("Product not found.");
+
+            return Ok(prod);
+        }
+        // POST: ProductsController/Products
+        [HttpPost]
         public IActionResult PostProduct(ProductRequest productReq)
                 {
             var product = new Product

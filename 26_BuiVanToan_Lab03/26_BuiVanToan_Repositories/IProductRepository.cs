@@ -16,5 +16,6 @@ namespace _26_BuiVanToan_Repositories
 
             List<Category> GetCategories(); 
             List<Product> GetProducts();
+            Category GetCategoryById(int id);
     }
 }
