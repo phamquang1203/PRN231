@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_26_BuiVanToan_Repositories</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\26_BuiVanToan_BusinessObjects\26_BuiVanToan_BusinessObjects.csproj" />
+    <ProjectReference Include="..\26_BuiVanToan_DataAccess\26_BuiVanToan_DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
