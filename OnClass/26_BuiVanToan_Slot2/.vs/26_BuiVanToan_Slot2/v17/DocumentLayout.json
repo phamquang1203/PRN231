@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|c:\\users\\bubui\\downloads\\prn231\\sourceonclass\\26_buivantoan_slot2\\26_buivantoan_demo1_todoitem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E86CB5EE-A510-4FD8-AC3C-D6971CD9D597}|26_BuiVanToan_Demo1_TodoItem\\26_BuiVanToan_Demo1_TodoItem.csproj|solutionrelative:26_buivantoan_demo1_todoitem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItem.cs",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:37:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\appsettings.json",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\appsettings.json",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-08T13:59:21.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Models\\TodoContext.cs",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T10:12:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItemDTO.cs",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\Models\\TodoItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T10:10:10.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-06T10:02:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T09:38:20.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Program.cs",
+              "RelativeDocumentMoniker": "26_BuiVanToan_Demo1_TodoItem\\Program.cs",
+              "ToolTip": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot2\\26_BuiVanToan_Demo1_TodoItem\\Program.cs",
+              "RelativeToolTip": "26_BuiVanToan_Demo1_TodoItem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T08:57:29.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

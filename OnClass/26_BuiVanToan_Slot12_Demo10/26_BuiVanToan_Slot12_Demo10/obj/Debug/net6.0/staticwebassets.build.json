@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "JrrQxjH8o+V1FhcFiUwlYeyuB2NuPyr7ZjOcFSU45jA=",
+  "Source": "26_BuiVanToan_Slot12_Demo11",
+  "BasePath": "_content/26_BuiVanToan_Slot12_Demo11",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "26_BuiVanToan_Slot12_Demo11\\wwwroot",
+      "Source": "26_BuiVanToan_Slot12_Demo11",
+      "ContentRoot": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\",
+      "BasePath": "_content/26_BuiVanToan_Slot12_Demo11",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\css\\site.css",
+      "SourceId": "26_BuiVanToan_Slot12_Demo11",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\",
+      "BasePath": "_content/26_BuiVanToan_Slot12_Demo11",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\index.html",
+      "SourceId": "26_BuiVanToan_Slot12_Demo11",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\",
+      "BasePath": "_content/26_BuiVanToan_Slot12_Demo11",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\js\\site.js",
+      "SourceId": "26_BuiVanToan_Slot12_Demo11",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot12_Demo10\\26_BuiVanToan_Slot12_Demo10\\wwwroot\\",
+      "BasePath": "_content/26_BuiVanToan_Slot12_Demo11",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xvdq6Wq70cL96nqnRklA+HwKRz9E6EGtf9fLGoSA2zo1tZ3ruSOFr5GV+byNfcXqRbuGhX+JV7GxqqeLJ+11Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Slot6_Demo5\\26_BuiVanToan_Slot6\\26_BuiVanToan_Slot6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bubui\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bubui\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bubui\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Bubui\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

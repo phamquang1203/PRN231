@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\26_BuiVanToan_Slot6.props" />
+</Project>

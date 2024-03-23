@@ -1,0 +1,7 @@
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\bin\Debug\26_BuiVanToan_Slot14_Demo15.dll.config
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\bin\Debug\26_BuiVanToan_Slot14_Demo15.dll
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\bin\Debug\26_BuiVanToan_Slot14_Demo15.pdb
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\obj\Debug\26_BuiVanToan_Slot14_Demo15.csproj.AssemblyReference.cache
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\obj\Debug\26_BuiVanToan_Slot14_Demo15.csproj.CoreCompileInputs.cache
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\obj\Debug\26_BuiVanToan_Slot14_Demo15.dll
+C:\Users\Bubui\Downloads\PRN231\sourceonClass\26_BuiVanToan_Slot14_Demo15\26_BuiVanToan_Slot14_Demo15\obj\Debug\26_BuiVanToan_Slot14_Demo15.pdb
