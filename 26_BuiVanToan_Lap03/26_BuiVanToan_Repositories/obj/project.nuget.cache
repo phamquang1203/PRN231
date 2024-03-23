@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mc8e+H/Kkc5ifjNNW5TnDrmI/Fb6mrDVvShO2xYLjTq3Vn5f37mxATtbR0gqMmqBw0B5/IHoeMHLmEk0UaLh8A==",
+  "dgSpecHash": "CZiTn3so06SPq07ybhPxL9jR5Kk3v8qiRAjgi9nTkT6NE+6F65NzWTmORuFgbFNWqU9hs+wzRvniJHObNSLZmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_Repositories\\26_BuiVanToan_Repositories.csproj",
+  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_Repositories\\26_BuiVanToan_Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

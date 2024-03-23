@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj": {}
+    "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj": {
+    "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj",
         "projectName": "26_BuiVanToan_BusinessObjects",
-        "projectPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj",
+        "projectPath": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\Bubui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\obj\\",
+        "outputPath": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

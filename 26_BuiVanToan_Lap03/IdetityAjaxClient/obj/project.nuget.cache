@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WbKWQevFgr8EAWYnTAg2yTFGImvhcvRvJAp4y1e3KbG4R1lTq2cGo532tcsrvuSQ54amh2JEHEoLCQihdLerZg==",
+  "dgSpecHash": "KQXedz6pWYuNa7+vdgW2hlxLGR5nmicDcg8uORYJcHLIVYGKwYZkemYk7UUxYfQKmHc2r2evKn62HWmkd01rFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\IdetityAjaxClient\\IdetityAjaxClient.csproj",
+  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\IdetityAjaxClient\\IdetityAjaxClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bubui\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.26\\microsoft.aspnetcore.cryptography.internal.6.0.26.nupkg.sha512",

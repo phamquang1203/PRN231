@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EcENyr5hDKAWc0FgDnm+9hFLyLkHj0Y9Qpnu+2M/CM5Dfn2Y2jYO/gEPLugMokxG6v19LXqvq4HTRYG1XIxNw==",
+  "dgSpecHash": "gQwEti4C00zBZ1bi4E9g1tfCgxpXhOHg7TSKb73KwalpowY+zHfNPE0pbRdN1f5SPVWYs+/cP93HGMYve/SyGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj",
+  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\26_BuiVanToan_BusinessObjects\\26_BuiVanToan_BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bubui\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

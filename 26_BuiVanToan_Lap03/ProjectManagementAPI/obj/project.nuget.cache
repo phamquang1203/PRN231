@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a0g6SZCTK2UUdKOm/cvFFDpmAnulXgmZT9hve8Uruid6/8w5ZKYh9ZObllZnw1ZQfQHFGxboCi0ZL1gJ3y5uNQ==",
+  "dgSpecHash": "ArUCjvcoRbdR1q/2CG9v37yGEmpFYTCl1YXnBmqCO+58x8ONH6BPA+qHvft+xemDS/QbCVaJViZRnG8gpKyT7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Lap03\\ProjectManagementAPI\\ProjectManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\Bubui\\Downloads\\Compressed\\PRN231\\26_BuiVanToan_Lap03\\ProjectManagementAPI\\ProjectManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Bubui\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
