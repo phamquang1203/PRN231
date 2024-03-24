@@ -124,9 +124,10 @@ namespace eStoreClient.Areas.Identity.Pages.Account
 
             if (ModelState.IsValid)
             {
+                var count =0;
                 // This doesn't count login failures towards account lockout
                 // To enable password failures to trigger account lockout, set lockoutOnFailure: true
-                var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: false);
+                var result = await _signInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: true);
                 if (result.Succeeded)
                 {
                     var user = _userManager.FindByEmailAsync(Input.Email).Result;
@@ -157,6 +158,8 @@ namespace eStoreClient.Areas.Identity.Pages.Account
                 }
                 else
                 {
+
+
                     ModelState.AddModelError(string.Empty, "Invalid login attempt.");
                     return Page();
                 }

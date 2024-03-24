@@ -12,5 +12,7 @@ namespace _26_BuiVanToan_Repository.impl
         public void UpdateOrder(Order order) => OrdersDAO.UpdateOrder(order);
         public void DeleteOrder(Order order) => OrdersDAO.DeleteOrder(order);
         public List<OrderDetail> GetOrderDetails(int orderId) => OrdersDetailDAO.FindAllOrderDetailsByOrderId(orderId);
+        public List<Order> GetOrdersByDateRange(DateTime startDate, DateTime endDate) =>
+       OrdersDAO.GetOrdersByDateRange(startDate, endDate);
     }
 }

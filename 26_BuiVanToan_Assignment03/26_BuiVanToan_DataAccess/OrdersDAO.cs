@@ -118,5 +118,25 @@ namespace _26_BuiVanToan_DataAccess
                 throw new Exception(ex.Message);
             }
         }
+        public static List<Order> GetOrdersByDateRange(DateTime startDate, DateTime endDate)
+        {
+            var listOrders = new List<Order>();
+            try
+            {
+                using (var context = new MyDbContext())
+                {
+                    listOrders = context.Orders
+                        .Where(o => o.OrderDate >= startDate && o.OrderDate <= endDate)
+                        .ToList();
+                    listOrders.ForEach(o => o.Member = context.Members.Find(o.MemberID));
+                }
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+            return listOrders;
+        }
+
     }
 }

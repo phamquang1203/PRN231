@@ -11,5 +11,7 @@ namespace _26_BuiVanToan_Repository
         void UpdateOrder(Order order);
         void DeleteOrder(Order order);
         List<OrderDetail> GetOrderDetails(int orderId);
+        List<Order> GetOrdersByDateRange(DateTime startDate, DateTime endDate);
+
     }
 }

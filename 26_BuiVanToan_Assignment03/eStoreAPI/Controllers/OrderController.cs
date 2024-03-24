@@ -91,7 +91,38 @@ namespace eStoreAPI.Controllers
             }
             return Ok(savedOrder);
         }
-            [HttpDelete("{id}")]
+        [HttpGet("report")]
+        public IActionResult GetReport(string startDate, string endDate)
+        {
+            DateTime start, end;
+
+            // Kiểm tra xem định dạng của ngày bắt đầu và ngày kết thúc có hợp lệ không
+            if (!DateTime.TryParse(startDate, out start) || !DateTime.TryParse(endDate, out end))
+            {
+                return BadRequest("Invalid date format.");
+            }
+
+            // Lấy danh sách đơn hàng trong khoảng thời gian đã chỉ định từ repository
+            var orders = repository.GetOrdersByDateRange(start, end).ToList();
+
+            // Tạo dữ liệu báo cáo dưới dạng JSON
+            var reportData = orders.Select(o => new
+            {
+                OrderId = o.OrderID,
+                OrderDate = o.OrderDate,
+                ShippedDate = o.ShippedDate,
+                Total = o.Total,
+                Freight = o.Freight,
+                MemberEmail = o.Member.Email
+            }).ToList();
+
+            // Trả về dữ liệu báo cáo
+            return Ok(reportData);
+        }
+
+
+        [HttpDelete("{id}")]
+
         public IActionResult DeleteOrder(int id)
         {
             var o = repository.GetOrderById(id);

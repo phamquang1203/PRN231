@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using eStoreAPI.Models;
+using _26_BuiVanToan_BusinessObject;
 namespace eStoreClient.Controllers
 {
     [Authorize(Roles = UserRoles.Admin)]
@@ -18,6 +19,12 @@ namespace eStoreClient.Controllers
 
         public IActionResult Detail()
         {
+            return View();
+        }
+        public async Task<IActionResult> Report(string startDate, string endDate)
+        {
+           
+
             return View();
         }
     }
