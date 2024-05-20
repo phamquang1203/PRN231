@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj": {}
+    "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj": {
+    "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj",
+        "projectUniqueName": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj",
         "projectName": "26_BuiVanToan_BusinessObject",
-        "projectPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\Bubui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\obj\\",
+        "projectPath": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\PhamQuang\\.nuget\\packages\\",
+        "outputPath": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bubui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PhamQuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,26 +78,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj": {
+    "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
+        "projectUniqueName": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
         "projectName": "26_BuiVanToan_DataAccess",
-        "projectPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Bubui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\obj\\",
+        "projectPath": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\26_BuiVanToan_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\PhamQuang\\.nuget\\packages\\",
+        "outputPath": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bubui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PhamQuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +125,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\Bubui\\Downloads\\PRN231\\sourceonClass\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj"
+              "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj": {
+                "projectPath": "E:\\School_projects\\Summer2024\\PRN231\\Projects\\PRN231\\26_BuiVanToan_Assignment\\26_BuiVanToan_BusinessObject\\26_BuiVanToan_BusinessObject.csproj"
               }
             }
           }
@@ -137,12 +151,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
